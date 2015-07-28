@@ -1,0 +1,8 @@
+C:\Документы\кодинг\NetTempMon\src\nettempmon\OpenHardwareMonitor_test\bin\Debug\OpenHardwareMonitor_test.exe.config
+C:\Документы\кодинг\NetTempMon\src\nettempmon\OpenHardwareMonitor_test\bin\Debug\OpenHardwareMonitor_test.exe
+C:\Документы\кодинг\NetTempMon\src\nettempmon\OpenHardwareMonitor_test\bin\Debug\OpenHardwareMonitor_test.pdb
+C:\Документы\кодинг\NetTempMon\src\nettempmon\OpenHardwareMonitor_test\bin\Debug\OpenHardwareMonitorLib.dll
+C:\Документы\кодинг\NetTempMon\src\nettempmon\OpenHardwareMonitor_test\bin\Debug\OpenHardwareMonitorLib.pdb
+C:\Документы\кодинг\NetTempMon\src\nettempmon\OpenHardwareMonitor_test\obj\Debug\OpenHardwareMonitor_test.csprojResolveAssemblyReference.cache
+C:\Документы\кодинг\NetTempMon\src\nettempmon\OpenHardwareMonitor_test\obj\Debug\OpenHardwareMonitor_test.exe
+C:\Документы\кодинг\NetTempMon\src\nettempmon\OpenHardwareMonitor_test\obj\Debug\OpenHardwareMonitor_test.pdb
